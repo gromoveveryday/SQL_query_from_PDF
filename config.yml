@@ -1,0 +1,9 @@
+call_data:
+  columns:
+    id: INTEGER
+    category_name: INTEGER
+    district_name: TEXT
+    call_date: DATE
+    price: FLOAT
+
+
